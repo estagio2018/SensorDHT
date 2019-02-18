@@ -1,3 +1,4 @@
+//DHT sensor library by Adafruit 
 #include <DHT.h>; //
 
 #define DHTPIN 7 //PINO DIGITAL UTILIZADO PELO DHT22
