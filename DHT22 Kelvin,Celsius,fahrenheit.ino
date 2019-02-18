@@ -1,5 +1,5 @@
 //********************************************************************************
-
+//DHT sensor library by Adafruit     
 //Bibliotecas 
 #include <DHT.h>
 
