@@ -1,5 +1,5 @@
 // Programa : Sensor de temperatura DHT22
-// Autor : Arduino e Cia
+//DHT sensor library by Adafruit 
 
 #include <DHT.h>
 #include <LiquidCrystal.h>
